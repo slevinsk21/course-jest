@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`File: <Counter> #1: Test: ( must be do match to the snapshot ) 1`] = `
+<div>
+  <div
+    style="height: 60px;"
+  />
+  <div
+    style="background-color: rgba(221, 51, 221, 0.2); border-radius: 8px; display: flex; flex-direction: column; align-items: center; margin: 0px auto; max-width: 340px; padding: 15px;"
+  >
+    <h1>
+      CounterApp
+    </h1>
+    <h2>
+      0
+    </h2>
+    <div>
+      <button>
+        +1
+      </button>
+      <button>
+        x10
+      </button>
+      <button
+        aria-label="btn-reset"
+      >
+        Reset
+      </button>
+      <button>
+        -1
+      </button>
+      <button>
+        -10
+      </button>
+    </div>
+  </div>
+</div>
+`;
